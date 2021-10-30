@@ -1,0 +1,64 @@
+*{
+    margin: 2;
+    padding: 0;
+    border-radius: 15px;
+}
+/* titel pagina 1*/
+body {
+    color: rgb(0, 0, 0);
+    font: normal 16px Arial, Helvetica, sans-serif;
+    line-height: ;
+    background-color: rgb(238, 236, 206);
+    margin: 0em;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: red;
+}
+.container{
+    width: 80%;
+    margin: auto;
+}
+.black-border{
+    border: 5px solid rgb(10, 10, 10);
+    margin: 20px 0;
+    text-align: center;
+    background-color: rgb(160, 185, 233);
+    color: rgb(129, 55, 2);
+}
+.black-border-1{
+    border: 5px solid chocolate;
+    color: rgb(0, 89, 255);
+    font:normal 16px verdana;
+    line-height: 1.6em;
+    margin: 20px 0;
+    padding: 2em;
+}
+
+/*titel pagina 2 */
+#green-background{
+    background-color: rgb(231, 171, 114);
+}
+.black-border-2{
+    border: 5px solid rgb(87, 210, 30);
+    color: rgb(200, 7, 218);
+    font:normal 16px verdana;
+    line-height: 1.6em;
+    margin: 20px 0;
+    padding: 2em;
+}
+#green-background-1{
+    background-color: rgb(176, 231, 114);
+}
+.black-border-3{
+    border: 5px solid black;
+    margin: 20px 0;
+    text-align: center;
+    background-color: rgb(200, 7, 218);
+    color: rgb(87, 210, 30);
+}
+.categories li{
+    list-style: none;
+}
